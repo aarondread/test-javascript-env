@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarondread/test-javascript-env.git"
+  },
+  "keywords": [
+    "node",
+    "es6"
+  ],
+  "author": "aarongarcia1520@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aarondread/test-javascript-env/issues"
+  },
+  "homepage": "https://github.com/aarondread/test-javascript-env#readme"
+}
